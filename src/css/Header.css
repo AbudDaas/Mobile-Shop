@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* { font-family:'Poppins', sans-serif; 
+    margin: 0; padding: 0; 
+    box-sizing: border-box; scroll-behavior: smooth; }
+
+header { display: flex;
+         background-color: black;
+         width: 100%; 
+         justify-content: space-between;
+         padding: 55px 100px; 
+         align-items: center;
+         /* position: fixed; */
+         }
+
+.logo img{
+        width: 30vh;
+        margin-left: -7vh;
+        margin-top: -10vh;
+}
+
+nav{
+        margin-right: 53vh;
+        margin-top: -10vh;
+}
+.nav  { 
+        text-decoration: none;
+         font-size: 11px;
+        font-weight: 300; 
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 25px;
+        padding-right: 25px;
+        color: white;
+        transition: 0.3s ease; 
+        
+ }
+
+.nav:hover { background-color: palevioletred;
+             }
+
+.hrOne{
+        position: absolute;
+        height: 4vh;
+        top: 12.6vh;
+        right: 121.9vh;
+        border: 1px solid rgba(216, 112, 147, 0.297);;
+        
+}
+.hrTwo{
+        position: absolute;
+        height: 4vh;
+        top: 12.6vh;
+        right: 103.5vh;
+        border: 1px solid rgba(216, 112, 147, 0.297);
+        
+}
+.hrThree{
+        position: absolute;
+        height: 4vh;
+        top: 12.6vh;
+        right: 86.7vh;
+        border: 1px solid rgba(216, 112, 147, 0.297);
+        
+}
+.hrFour{
+        position: absolute;
+        height: 4vh;
+        top: 12.6vh;
+        right: 69.3vh;
+        border: 1px solid rgba(216, 112, 147, 0.297);
+        
+}
+.headerButton{
+        color: white;
+        border: 1px solid white;
+        padding: 1vh 2.5vh;
+        font-size: 10px;
+        background-color: black;
+        position: absolute;
+        right: 8vh;
+        top: 12.3vh;
+        cursor: pointer;
+        border-radius: 2px;
+}
+.headerButton:hover{
+        border-color: palevioletred;
+        box-shadow:  palevioletred 0px 0.5px 4px 0px;
+}
+#product ul{
+        position: absolute;
+        margin-top: 0.4vh;
+        margin-left: 13.2vh;
+        color: white;
+        text-align: center;
+}
+#product ul li{
+        list-style-type: none;
+        font-size: 10px;
+        cursor: pointer;
+        padding-right: 13vh;
+        padding-left: 0.5vh;
+        padding-top: 2vh;
+        padding-bottom: 1.5vh;
+        transition: 0.2s ease;
+        text-align: center;
+        margin-top: 1vh;
+        
+}
+#product ul li:hover{
+        background-color: palevioletred;
+}
+#contact ul{
+        position: absolute;
+        margin-top: 0.4vh;
+        margin-left: 49vh;
+        color: white;
+        
+}
+#contact ul li{
+        list-style-type: none;
+        font-size: 10px;
+        cursor: pointer;
+        padding-right: 2.5vh;
+        padding-left: 1vh;
+        padding-top: 1vh;
+        padding-bottom: 1vh;
+        transition: 0.2s ease;
+        text-align: center;
+        margin-top: 1vh;
+}
+#contact ul li:hover{
+        background-color: palevioletred;
+}
+.number {
+        position: absolute;
+        bottom: -70%;
+}
+.links{
+        text-decoration: none;
+        color: white;
+}
+
+
+

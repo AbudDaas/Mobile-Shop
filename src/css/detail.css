@@ -1,0 +1,144 @@
+.detailSection{
+    width: 100%;
+    height: 95vh;
+    background-color: black;
+}
+.detailMain{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.detailContainerOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 15vh;
+    margin-left: 26vh;
+}
+.detailContainerOne p{
+    color: rgba(255, 255, 255, 0.421);
+    font-size: 12px;
+    position: relative;
+    padding-right: 7vh;
+}
+.detailContainerOne h3{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 1.7vh;
+    padding-bottom: 1.7vh;
+    padding-left: 5vh;
+}
+.detailContainerOne span{
+    color: white;
+    font-size: 16px;
+    padding-right: 25vh;
+    padding-bottom: 3.5;
+    cursor:pointer
+}
+.detailContainerOne select{
+    margin-top: 4.4vh;
+    margin-right: 9vh;
+    padding: 1.5vh 1.5vh;
+    border: 1px solid white;
+    border-color: white;
+    background-color: black;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+    font-size: 13px;
+    cursor:pointer
+}
+.detailContainerOne .selectColor{
+    margin-top: 3vh;
+    margin-right: 12.5vh;
+}
+.inputNum{
+    background-color: black;
+    border: 1px solid white;
+    margin-top: 3.5vh;
+    margin-right: 23vh;
+    padding-left: 2vh;
+    color: white;
+    width: 8vh;
+    height: 5.5vh;
+    font-size: 16px;
+    cursor:pointer
+}
+.buy{
+    margin-top: -5.5vh;
+    width: 8.5vh;
+    height: 5.5vh;
+    font-size: 16px;
+    color: blueviolet;
+    border: 1.8px solid blueviolet;
+    background-color: black;
+    font-weight: 200;
+    font-size: 12px;
+    margin-left: -1.5vh;
+    cursor:pointer
+}
+.buy:hover{
+    box-shadow: rgb(152, 118, 184) 0px 7px 29px 0px;
+}
+.detailContainerOne h5{
+    color: white;
+    margin-top: 4vh;
+    font-size: 14px;
+    margin-left: 11vh;
+}
+.detailContainerOne img{
+    width: 2.9vh;
+    height: 3.2vh;
+    margin-top: -3.3vh;
+    margin-left: -28vh;
+}
+.productDetails{
+    margin-right: -3vh;
+    margin-top: 4.5vh;
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+}
+.productDetailParagraph{
+    width: 50%;
+    margin-left: 67vh;
+    margin-top: 4vh;
+}
+.detailContainerTwo{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+.detailContainerTwo img{
+    width: 35vh;
+    height: 47vh;
+    margin-left: 40vh;
+    margin-top: 10vh;
+    cursor: pointer; 
+} 
+ .imgGroups{
+    margin-top: 70vh;
+    width: 67vh;
+    height: 16vh;
+    border: 1px solid white;
+    margin-left: 20vh;
+    display: flex;
+    flex-direction: row;
+} 
+.imgGroups img{
+    width: 13vh;
+    height: 12vh;
+    margin-left: 4vh;
+    margin-top: 2.2vh;
+    cursor: pointer;
+}
+img.mainImg{
+    cursor: pointer;
+    width: 40vh;
+    position: absolute;
+    right: 15%;
+    height: 45vh;
+    top: 7%;
+}

@@ -1,0 +1,471 @@
+{
+  "titles" : [
+    {
+      "IphoneSection" : "Iphone",
+      "SamsungSection" : "Samsung",
+      "HuaweiSection" : "Huawei"
+   }
+  ],
+
+  "samsung" : [
+    {
+    "id" : 1,
+    "title" : "Samsung Galaxy S",
+    "price" : 1299,
+    "img" : "../../../../../../src/assets/products img/samsung1.png",
+    "productDetails" : "Dimensions & Weight, 70.6 x 146.0 x 7.6mm, 168g ; Camera, 12MP Ultra-Wide Camera · F2.2, FOV 120˚. 50 MP Wide Camera · Dual Pixel AF, OIS, F1.8, FOV 85 esources; Dimensions & Weight, 70.6 x 146.0 x 7.6mm, 168g ; Camera, 12MP Ultra-Wide Camera · F2.2, FOV 120˚. 50 MP Wide Camera · Dual Pixel AF, OIS, F1.8, FOV 85",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (32).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (12).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (22).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (2).png"
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "title" : "Samsung Galaxy A53",
+    "price" : 399,
+    "img" : "../../../../../../src/assets/products img/samsung2.png",
+    "productDetails": "Dimensions & Weight: Unfolded: 128.1 x 158.2 x 6.4mm, Folded: 67.1 x 158.2 x 14.4mm, 271g; Camera: 12MP Wide-angle Camera · F1.8, OIS. 12MP Ultra Wide Camera · F2.2. 12MP Telephoto Camera · F2.4, OIS",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (35).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (13).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (17).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (1).png"
+      }
+    ]
+  },
+  {
+    "id" : 3,
+    "title" : "Samsung Galaxy Fold",
+    "price" : 1799,
+    "img" : "../../../../../../src/assets/products img/samsung3.png",
+    "productDetails": "Dimensions & Weight: Unfolded: 128.1 x 158.2 x 6.4mm, Folded: 67.1 x 158.2 x 14.4mm, 271g; Camera: 12MP Wide-angle Camera · F1.8, OIS. 12MP Ultra Wide Camera · F2.2. 12MP Telephoto Camera · F2.4, OIS",
+      "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (6).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (16).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (10).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (35).png"
+      }
+    ]
+  },
+  {
+    "id" : 4,
+    "title" : "Samsung Galaxy Note 20",
+    "price" : 999,
+    "img" : "../../../../../../src/assets/products img/samsung4.png",
+    "productDetails": "Dimensions & Weight: 164.8 x 77.2 x 8.1mm, 208g; Camera: 108MP Wide-angle Camera · F1.8, FOV 79°. 12MP Ultra Wide Camera · F2.2, FOV 120°. 12MP Telephoto Camera · F3.0, OIS",
+      "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (33).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (9).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (29).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (40).png"
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "title" : "Samsung Galaxy S21",
+    "price" : 699,
+    "img" : "../../../../../../src/assets/products img/samsung5.png",
+    "productDetails": "Dimensions & Weight: 155.7 x 74.5 x 7.9mm, 171g; Camera: 12MP Wide Camera · F1.8, FOV 79°. 12MP Ultra Wide Camera · F2.2, FOV 123°. 8MP Telephoto Camera · F2.4, FOV 32°",
+      "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (37).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (18).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (4).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (25).png"
+      }
+    ]
+  },
+  {
+    "id" : 6,
+    "title" : "Samsung Galaxy A32",
+    "price" : 249,
+    "img" : "../../../../../../src/assets/products img/samsung6.png",
+    "productDetails": "Dimensions & Weight: 158.9 x 73.6 x 8.4mm, 184g; Camera: 64MP Main Camera · F1.8, FOV 80°. 8MP Ultra Wide Camera · F2.2, FOV 123°. 5MP Depth Camera · F2.4, FOV 88°. 5MP Macro Camera · F2.4, FOV 88°",
+      "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (39).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (15).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (14).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (5).png"
+      }
+    ]
+  }
+],
+
+
+"Iphone" : [
+  {
+  "id" : 1,
+  "title" : "iPhone 14 Pro",
+  "price" : 1399,
+  "img" : "../../../../../../src/assets/products img/iphone1.png",
+  "productDetails": "Dimensions & Weight: 160 x 75 x 8mm, 180g; Camera: 108MP Main Camera · F1.6, FOV 78°. 12MP Ultra Wide Camera · F2.2, FOV 120°. 8MP Telephoto Camera · F2.4, FOV 50°.",
+  "imgGroup" : [
+    {
+      "id":1,
+      "img" : "../../../../../../src/assets/phone accessories/pngegg (4).png"
+    },
+    {
+      "id":2,
+      "img" : "../../../../../../src/assets/phone accessories/pngegg (14).png"
+    },
+    {
+      "id":3,
+      "img" : "../../../../../../src/assets/phone accessories/pngegg (23).png"
+    },
+    {
+      "id":4,
+      "img" : "../../../../../../src/assets/phone accessories/pngegg (8).png"
+    }
+  ]
+},
+{
+  "id" : 2,
+  "title" : "iPhone 13 Mini",
+  "price" : 699,
+  "img" : "../../../../../../src/assets/products img/iphone2.png",
+  "productDetails": "Dimensions & Weight: 131 x 64 x 7.3mm, 135g; Camera: 12MP Main Camera · F1.6, FOV 78°. 12MP Ultra Wide Camera · F2.4, FOV 120°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (14).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (15).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (20).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (3).png"
+      }
+    ]
+},
+{
+  "id" : 3,
+  "title" : "iPhone SE (2022)",
+  "price" : 399,
+  "img" : "../../../../../../src/assets/products img/iphone3.png",
+  "productDetails": "Dimensions & Weight: 138 x 67 x 7.3mm, 148g; Camera: 12MP Main Camera · F1.8, FOV 78°. 12MP Ultra Wide Camera · F2.4, FOV 120°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (5).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (13).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (18).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (21).png"
+      }
+    ]
+},
+{
+  "id" : 4,
+  "title" : "iPhone 12 Pro",
+  "price" : 999,
+  "img" : "../../../../../../src/assets/products img/iphone4.png",
+  "productDetails": "Dimensions & Weight: 146 x 71 x 7.4mm, 189g; Camera: 12MP Main Camera · F1.6, FOV 78°. 12MP Ultra Wide Camera · F2.4, FOV 120°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (1).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (21).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (11).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (19).png"
+      }
+    ]
+},
+{
+  "id" : 5,
+  "title" : "iPhone XR",
+  "price" : 499,
+  "img" : "../../../../../../src/assets/products img/iphone5.png",
+  "productDetails": "Dimensions & Weight: 150 x 75 x 8.3mm, 194g; Camera: 12MP Main Camera · F1.8, FOV 78°. 8MP Ultra Wide Camera · F2.4, FOV 120°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (7).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (12).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (22).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (10).png"
+      }
+    ]
+},
+{
+  "id" : 6,
+  "title" : "iPhone 11",
+  "price" : 599,
+  "img" : "../../../../../../src/assets/products img/iphone6.png",
+  "productDetails": "Dimensions & Weight: 151 x 76 x 8.5mm, 201g; Camera: 12MP Main Camera · F1.8, FOV 78°. 12MP Ultra Wide Camera · F2.4, FOV 120°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (27).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (18).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (6).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (14).png"
+      }
+    ]
+}
+],
+
+
+"huawei" : [
+  {
+  "id" : 1,
+  "title" : "Huawei P50 Pro",
+  "price" : 999,
+  "img" : "../../../../../../src/assets/products img/huawei1.png",
+  "productDetails": "Dimensions & Weight: 158.8 x 72.8 x 8.5mm, 195g; Camera: 50MP Ultra Vision Camera (Wide) · F1.8, FOV 80°. 64MP Ultra-Wide Cine Camera · F2.2, FOV 120°. 13MP Telephoto Camera · F3.4, FOV 50°.",
+  "imgGroup" : [
+    {
+      "id":1,
+      "img" : "../../../../../../src/assets/phone accessories/pngwing.com (30).png"
+    },
+    {
+      "id":2,
+      "img" : "../../../../../../src/assets/phone accessories/pngwing.com (41).png"
+    },
+    {
+      "id":3,
+      "img" : "../../../../../../src/assets/phone accessories/pngwing.com (1).png"
+    },
+    {
+      "id":4,
+      "img" : "../../../../../../src/assets/phone accessories/pngwing.com (12).png"
+    }
+  ]
+},
+{
+  "id" : 2,
+  "title" : "Huawei Mate 40",
+  "price" : 1199,
+  "img" : "../../../../../../src/assets/products img/huawei2.png",
+  "productDetails": "Dimensions & Weight: 162.9 x 75.5 x 9.1mm, 212g; Camera: 50MP Ultra Vision Camera (Wide) · F1.9, FOV 80°. 20MP Ultra-Wide Cine Camera · F2.4, FOV 120°. 12MP Telephoto Camera · F3.4, FOV 50°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (25).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (20).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (15).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com (8).png"
+      }
+    ]
+},
+{
+  "id" : 3,
+  "title" : "Huawei P40 Pro",
+  "price" : 899,
+  "img" : "../../../../../../src/assets/products img/huawei3.png",
+  "productDetails": "Dimensions & Weight: 158.2 x 72.6 x 8.9mm, 209g; Camera: 50MP Ultra Vision Camera (Wide) · F1.9, FOV 80°. 40MP Ultra-Wide Cine Camera · F1.8, FOV 120°. 12MP Telephoto Camera · F3.4, FOV 50°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (21).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (15).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (29).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (30).png"
+      }
+    ]
+},
+{
+  "id" : 4,
+  "title" : "Huawei Nova 8",
+  "price" : 699,
+  "img" : "../../../../../../src/assets/products img/huawei4.png",
+  "productDetails": "Dimensions & Weight: 163.3 x 74.1 x 7.9mm, 184g; Camera: 64MP Main Camera · F1.9, FOV 80°. 8MP Ultra-Wide Camera · F2.4, FOV 120°. 2MP Macro Camera · F2.4, FOV 50°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (31).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg.png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (6).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (12).png"
+      }
+    ]
+},
+{
+  "id" : 5,
+  "title" : "Huawei Enjoy 20",
+  "price" : 349,
+  "img" : "../../../../../../src/assets/products img/huawei5.png",
+  "productDetails": "Dimensions & Weight: 160.2 x 73.3 x 8mm, 192g; Camera: 48MP Main Camera · F1.8, FOV 80°. 8MP Ultra-Wide Camera · F2.4, FOV 120°. 2MP Depth Camera · F2.4, FOV 50°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (8).png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (28).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (20).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (14).png"
+      }
+    ]
+},
+{
+  "id" : 6,
+  "title" : "Huawei Mate X2",
+  "price" : 2499,
+  "img" : "../../../../../../src/assets/products img/huawei6.png",
+  "productDetails": "Dimensions & Weight: 161.8 x 145.8 x 8.2mm (folded), 295g; Camera: 50MP Ultra Vision Camera (Wide) · F1.9, FOV 80°. 16MP Ultra-Wide Camera · F2.2, FOV 120°. 12MP Telephoto Camera · F2.4, FOV 50°.",
+    "imgGroup" : [
+      {
+        "id":1,
+        "img" : "../../../../../../src/assets/phone accessories/pngwing.com.png"
+      },
+      {
+        "id":2,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (9).png"
+      },
+      {
+        "id":3,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (19).png"
+      },
+      {
+        "id":4,
+        "img" : "../../../../../../src/assets/phone accessories/pngegg (16).png"
+      }
+    ]
+}
+]
+
+}
