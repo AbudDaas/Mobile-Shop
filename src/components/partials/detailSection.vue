@@ -63,8 +63,8 @@ export default {
             this.mainImg = src
         },
         updatePr(){
-            if(this.number > 1){
-               this.total = this.price * Math.pow(2, this.number - 1)
+            if(this.number >= 1){
+               this.total = this.price * this.number
             }
             else{
                 this.total = this.price
