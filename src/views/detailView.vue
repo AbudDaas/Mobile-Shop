@@ -5,7 +5,7 @@
 </template>
 <script>
 import detailSection from '../components/partials/detailSection.vue';
-import defaultLayouts from '@/components/layouts/defaultLayouts.vue';
+    import defaultLayouts from '@/components/layouts/DefaultLayouts.vue';
 export default {
     components:{
         detailSection,

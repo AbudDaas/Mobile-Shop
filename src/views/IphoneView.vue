@@ -5,5 +5,5 @@
 </template>
 <script setup>
 import DefaultLayouts from '../components/layouts/DefaultLayouts.vue'
- import iphoneSection from '@/components/partials/iphoneSection.vue'
+    import iphoneSection from '@/components/partials/IphoneSection.vue'
 </script>
